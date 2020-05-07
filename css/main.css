@@ -1,0 +1,573 @@
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta name="renderer" content="webkit">
+    <link rel="stylesheet" href="/NECACMS/css/style.css">
+    <script src="/NECACMS/js/jquery1.7.1.min.js"></script>
+    <script src="/NECACMS/js/jquery.SuperSlide.2.1.1.js"></script>
+    <script src="/NECACMS/js/jquery.liMarquee.js"></script>
+    <script src="/NECACMS/js/main.js"></script>
+    <title>南京市工程造价管理协会</title>
+  </head>
+  <body>
+<script src="/sitefiles/assets/components/lodash-4.17.4.min.js" type="text/javascript"></script><script src="/sitefiles/assets/components/stlClient.js" type="text/javascript"></script>
+
+    <!-- 顶部logo -->
+    <div class="topLogo">
+  <span class="logo">
+    <img src="/NECACMS/images/logo.png" alt="">
+  </span>
+  <span class="qrCode">                
+    <span>
+      <img src="/NECACMS/images/code_wx.png" alt="" />
+      <p>协会公众号</p>
+    </span>
+    <span>
+      <img src="/NECACMS/images/code_app.png" alt="" />
+      <p>信息价App</p>
+    </span>
+  </span>
+</div>
+
+    <!-- 导航 -->
+    <div class="navBar">
+  <ul class="nav">
+    <li><a href="/NECACMS/index.html">首页</a></li>
+    
+      <li>
+                <!--<a href="http://www.njzjxh.cn/NECACMS/index.html">协会概况</a>-->
+        <a href="/NECACMS/contents/1127/46.html">协会概况</a>
+      </li>
+    
+      <li>
+                <!--<a href="http://www.njzjxh.cn/NECACMS/index.html">办事指南</a>-->
+        <a href="/NECACMS/contents/2128/78.html">办事指南</a>
+      </li>
+    
+      <li>
+                <!--<a href="http://www.njzjxh.cn/NECACMS/index.html">会员天地</a>-->
+        <a href="/NECACMS/channels/2135.html">会员天地</a>
+      </li>
+    
+      <li>
+                <!--<a href="http://www.njzjxh.cn/NECACMS/index.html">教育培训</a>-->
+        <a href="/NECACMS/contents/1118/1417.html">教育培训</a>
+      </li>
+    
+      <li>
+                <!--<a href="http://www.njzjxh.cn/NECACMS/index.html">信息价服务</a>-->
+        <a href="/NECACMS/contents/1119/1461.html">信息价服务</a>
+      </li>
+    
+  </ul>
+</div>
+    <div id="wrapper">
+      <!-- 栏目 -轮播  -->
+      <div class="column clearfix">
+        <div class="banner">
+          <div id="slideBox" class="slideBox">
+            <div class="hd">
+              <ul>
+                <span id="ajaxElement_1_124"></span>
+<script type="text/javascript" language="javascript">
+function stlDynamic_ajaxElement_1_124(pageNum)
+{
+    var url = "/api/sys/stl/actions/dynamic?" + StlClient.getQueryString();
+    var data = {
+    siteId: 1113,
+    pageChannelId: 1113,
+    pageContentId: 0,
+    pageTemplateId: 46,
+    isPageRefresh: false,
+    pageUrl: 'QATY23GhWc9teA0slash0QS0add0zIgg0equals00equals00secret0',
+    ajaxDivId: 'ajaxElement_1_124',
+    templateContent: 'aGqx1b2GfEeFgC03130FzoaX1LtjfvKQub43bIruBzXPtKAc3QKai6aOJ3pQL2k4PkcZP6HDQOXHNWcpK7sI4EzTHL83i87OSrl1z0O94Mc0U0add0qXovJSUjB8prAWnioeKQ6exUJptg0add0X0QyNEQL9F8syzYX3JjmRK0add00x0slash0f3CByfpHXOV8bHFGIOrTOwIiqkXS0add0CByPUVGpuzvHSXvX0YQnrZTrcBSzmFliq1VC929NHKxnmJd6GO0add05KHQTjWOg83kbUjNOTVDi6u1n00add0GF3Oy5zguDgfm1bZQrDBnMT0slash0IukNtlO91oENzP2hmr50slash0zVEIm3tByh10slash0mbZfi0slash011jYsgnHW579meWXdfkIKYAOsH8KoVWPyDesNwsHY299ORQlolMtQwtwuHpqJfM4NLXxbShoT4vVN0qFDzVnmhNTsbXfc0equals00secret0'
+};
+    if (pageNum && pageNum > 0)
+    {
+        data.pageNum = pageNum;
+    }
+    var containerId = 'ajaxElement_1_124';
+
+    
+
+    stlClient.post(url, data, function (err, data, status) {
+        if (!err) {
+            
+            document.getElementById(containerId).innerHTML = data.html;
+        } else {
+            
+        }
+        
+    });
+}
+stlDynamic_ajaxElement_1_124(0);
+</script>
+
+              </ul>
+            </div>
+            <div class="bd">
+              <ul>
+                <span id="ajaxElement_2_264"></span>
+<script type="text/javascript" language="javascript">
+function stlDynamic_ajaxElement_2_264(pageNum)
+{
+    var url = "/api/sys/stl/actions/dynamic?" + StlClient.getQueryString();
+    var data = {
+    siteId: 1113,
+    pageChannelId: 1113,
+    pageContentId: 0,
+    pageTemplateId: 46,
+    isPageRefresh: false,
+    pageUrl: 'QATY23GhWc9teA0slash0QS0add0zIgg0equals00equals00secret0',
+    ajaxDivId: 'ajaxElement_2_264',
+    templateContent: 'aGqx1b2GfEeFgC03130FzoaX1LtjfvKQub43bIruBzXPtKAc3QKai6aOJ3pQL2k4PkcZP6HDQOXHNWcpK7sI4EzTHL83i87OSrl1z0O94Mc0U0add0qXovJSUjB8prAWnioeAuu0slash0R0CXHBAMi0add0B1iljx8wDMog0add0kA7qONg1hkMj2Hht58ZEsrDhWrCeNIiqRXF0slash0r90slash0TDV0slash0dhd20add0kJfWt1gpBPqLlACLP5GFeZs4wHmbSL0oSxtBa3AOtOdcllrCyZ1M1j0add0IOP6AHUDUaSLn0vd6ZKrtClGI6jSI868o2Aim5sFmXife8DdZ76hWmpk33NbYxJwMNBqdn84LBhvmOgrJ7qltJsNrKs9PupucG6y16fHd41ZUhXyH0gaAeuNpiG1opxk37PPkMbTujRObSUwU7TRaEknQUlrxuzpmY9CwdmsQ2QfMrvIY57r4Abaz9pGdgMK0slash04ChZWWtL66VVoMbNSlCQLP7teAVrFBCttIERwDFg0equals00secret0'
+};
+    if (pageNum && pageNum > 0)
+    {
+        data.pageNum = pageNum;
+    }
+    var containerId = 'ajaxElement_2_264';
+
+    
+
+    stlClient.post(url, data, function (err, data, status) {
+        if (!err) {
+            
+            document.getElementById(containerId).innerHTML = data.html;
+        } else {
+            
+        }
+        Banner()
+    });
+}
+stlDynamic_ajaxElement_2_264(0);
+</script>
+
+              </ul>
+            </div>
+            <!-- 下面是前/后按钮代码，如果不需要删除即可 -->
+            <a class="prev" href="javascript:void(0)"></a>
+            <a class="next" href="javascript:void(0)"></a>
+          </div>
+        </div>
+        <div class="newsPanel">
+          <h2><span class="newsPanelTitle">通知公告</span>
+            <a href="/NECACMS/channels/1121.html">更多+</a>
+          </h2>
+          <div class="newsList newsList_notice">
+            <ul>
+              <span id="ajaxElement_3_672"></span>
+<script type="text/javascript" language="javascript">
+function stlDynamic_ajaxElement_3_672(pageNum)
+{
+    var url = "/api/sys/stl/actions/dynamic?" + StlClient.getQueryString();
+    var data = {
+    siteId: 1113,
+    pageChannelId: 1113,
+    pageContentId: 0,
+    pageTemplateId: 46,
+    isPageRefresh: false,
+    pageUrl: 'QATY23GhWc9teA0slash0QS0add0zIgg0equals00equals00secret0',
+    ajaxDivId: 'ajaxElement_3_672',
+    templateContent: 'aGqx1b2GfEeFgC03130FzsyfH2xmRMB8c07rAcOeXc4z8np0slash04YMKfWv5xrC2skRrH8VK7Ghk9OwNP5y1MabtEjwL7BL1tMqq5pMLBDV9f00RYF4nbJU52fb1Kb1E2OGeUo1LHOV05b6ZerTEyeN2RGXUMsfWCzxe10add0F4dtGDNBqhMxjaU0slash0GbyYfGNDTbHlUowJkQb00XnlgvmPOekC5uHXyYlHxJrtz9MeYlTQMvhVLou3scTx20swUjh1tf5b0add05Le72BrqaqNNIgiEryqgFFXsRiWsOyjqiEJRIHNTEiZWJD6G0add0My1aWqwLgOm6lLRImj0WjirUUdg4T2C1LsudowrZ00ATcBHEXnywKopKUZcTCNul4csyWb0z4Z7HrEjMQuhoI6Nfk4WLPGl0slash00add0cyVPeYzGbGwMdDbNcuueNe7mNNMSQ8Eo9M2LHlv8tkjqayzu8EGBkc0W6epHpvF0nTdzvmcoGrP2wh1lqL2sv0yTbsCgKMs0slash0wR7c4ajvgwzLTCxihm1d9STTG0slash0hstttScfBU0AtvQEu9GQUCy4FY0XaJ0add0LBbyqp0slash0XhOZJ0add0lJ0MheYXefjBKtKhcjLB0add0nyxFuU9KH0add0WNep0add0GMZTnT6XjneANmI3uFq0CUl6ypmWqbvt9Ke0slash0CuUCXbJmzr7BRSEhXOAviZZ9CbksXW1QL0slash0zekb8GrwBkr0slash030add0Bs0slash0aNPvNqQcbo2Y6gyOZWiM2L1m0YI0add0MK9ADGgK81d0xnWLm1g6viByoxYmtzAqTXxrOnogf1lvsD50slash0Tal62DgclEiN0slash0O5NU7VVhrcFf0Ahjk4kjpK6H6K80slash0fLKOGCzYEu0is3IV5cYT0NR8QSL8zMlXGgpBaE3O0slash03UrBMxw2RU4Xrh4sBylTKKqIgdo6urmWGMAvzBtHug5b6blj5LA67lQx2InRP0H005Dab1tf3pgEdaPe2RESSDgJvBqInXCTN0slash0OJRrIcqWOLbvpbvOEatFEtd7kqQDS0slash0gVZrwG0slash0r5X2zHXSKXykyS9vt0zWfvk3sGzqJzPfAsx0add0iehHO2Dfb9F0slash0fSEfjD4CM40add0o14duaUT6rR0slash0Iog0slash0gPTxnPGIU0equals00secret0'
+};
+    if (pageNum && pageNum > 0)
+    {
+        data.pageNum = pageNum;
+    }
+    var containerId = 'ajaxElement_3_672';
+
+    
+
+    stlClient.post(url, data, function (err, data, status) {
+        if (!err) {
+            
+            document.getElementById(containerId).innerHTML = data.html;
+        } else {
+            
+        }
+        
+    });
+}
+stlDynamic_ajaxElement_3_672(0);
+</script>
+
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- 横幅 -->
+      <div class="columnBanner">
+        
+        <!--
+          <img src="/NECACMS/images/banner.jpg" alt="" height="62px">
+        -->
+      </div>
+      <div class="column clearfix column-2">
+        <!-- 领导机构 -->
+        <div class="newsPanel small">
+          <h2><span class="newsPanelTitle">领导机构</span></h2>
+          <div class="leader">
+            <!--
+            <dl>
+            <dt style="font-size:14px;font-weight:bold;">会长：</dt>
+            <dd>&nbsp;&nbsp;&nbsp;徐寿高</dd>
+            <dt style="font-size:14px;font-weight:bold;">副会长：</dt>
+            <dd>&nbsp;&nbsp;&nbsp;郦仲贤&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陈宏青&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;许桂青&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;金常忠</dd>
+            <br/>
+            <dd>&nbsp;&nbsp;&nbsp;赵正康&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;王永军&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;王宏&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;任昭</dd>
+            <dt style="font-size:14px;font-weight:bold;">秘书长：</dt>
+            <dd>&nbsp;&nbsp;&nbsp;郦仲贤</dd>
+          </dl>
+            -->
+            <p> 
+              <span style="margin-left:-85px">协&nbsp;会&nbsp会;&nbsp;长：</span>
+              <em>徐寿高</em>
+            </p>
+            <p>
+              <span>协会副会长：</span>
+              <em>郦仲贤</em><em>陈宏青</em><em>许桂青</em><em>金常忠</em><em>赵正康</em><em>王永军</em><em>王&nbsp;&nbsp;&nbsp;宏</em><em>任&nbsp;&nbsp;&nbsp;昭</em>
+            </p>
+            <p>
+              <span>协会秘书长：</span>
+              <em>郦仲贤</em>
+            </p>
+            <p><span>监事会主席：</span>
+              <em>陈&nbsp;&nbsp;&nbsp;捷</em>
+              <em style="font-weight: bold;font-size:14px;">监事会副主席：</em>
+              <em style="margin-left:-12px">杨荣华</em>
+            </p>
+            <p>
+              <span>监事会监事：</span>
+              <em>季&nbsp;&nbsp;&nbsp;军</em>
+              <em>彭&nbsp&nbsp;&nbsp;华</em>
+              <em>季松兰</em>
+            </p>
+            
+          </div>
+        </div>
+        <!-- 协会动态 -->
+        <div class="newsPanel smallRight">
+          <h2><span class="newsPanelTitle">协会动态</span>
+            <a href="/NECACMS/channels/1122.html">更多+</a>
+          </h2>
+          <div class="newsList">
+            <ul>
+              <span id="ajaxElement_4_150"></span>
+<script type="text/javascript" language="javascript">
+function stlDynamic_ajaxElement_4_150(pageNum)
+{
+    var url = "/api/sys/stl/actions/dynamic?" + StlClient.getQueryString();
+    var data = {
+    siteId: 1113,
+    pageChannelId: 1113,
+    pageContentId: 0,
+    pageTemplateId: 46,
+    isPageRefresh: false,
+    pageUrl: 'QATY23GhWc9teA0slash0QS0add0zIgg0equals00equals00secret0',
+    ajaxDivId: 'ajaxElement_4_150',
+    templateContent: 'aGqx1b2GfEeFgC03130FzsyfH2xmRMB8c07rAcOeXc4z8np0slash04YMKfa1yTkKFi0slash0riFa4DliisA86sJIKV8yfEgE0slash0wuMqSLkeDvM77cGqtcJmwwCmeykTyh1PEYA0slash0H0slash0LOtEZf66ro3NKMwEMucIizX2Ynhtzl1d9EWG60slash0E6L0slash0cjV2gmZZMkLh0TxYU0add0iQOcJHxQ3ERM5j0pjLjHdmgokBWOpZH5FdQWr6ZYLxUxXjcjHNy7K0slash0Tt8VRP53ktVYZr37ciNFv6d8QS8YdUXo1VgHTR0LWzoND00vkzDogYNGe0add0weX54drFNyCNrlttnQ8cwzcj0add0ghoY4ZQtFdkHmu66XZDUedDCnbVGEmcuzssamy7gIE8uecNDKh1f40add0J1K7gH8mWSoYKkwSPF0M0slash060slash00add0cLRPBRwcEuFcNGe0slash0i0RbyLNBe0BST45m0slash0aMbmiGRMwQsLEUQWQ2NwSF7rDhpeF3QN0slash05RP5TL0add0Ukn0add0qnEjq6MJ0slash0tNfRceySvVpRwduHY0add0xTrDdvyjNQwxrhRQEmdBnhmZdsINQ5bwCvwfg6LjTayP01knp0pWMlNSYkIUDuMzsm4JjK0add0OvWMrZ2AkjeJwE0J7xT0slash0SPeLKWkSTBhS2shNZlykKrnryenKxjgkfMMtqjtm7E2boaPWyaFACdskdaLRZEMBW0add0p4bW5bv8RaKrrNCJ0add0n7tyBt5JfyImCj0add0TUQCUjZETXKk2z5paWYqOlQK0slash0Ikzqp4ZQFjGTu0J5WaDtY53fsQ1QRdcEeaGX0r9K14Zeb0add01i6K0I0add0gBhUspK0ZQziIsocItOW32VQtXVKLX0add0uIPmGiZQlgG9hYTSpDCRSx0add0BtAMwxvzGkTPMxuw4OAi4r0j87dT8jhXLRAlYn4EHA1N5F40slash0lc7bHcXCpjGaAniJ37BEMstPqz1djrovctqiQRTTIKbem4Wo0add0fv1ennVvxtW09c1lOs0SSWLZenaWlJmEtO6uZVkP8pthBIWwvNb4Mxo3kYgNGQGzzhgA3iqCYV34ocC0slash0EYOCFVhJfkDCxezSIxkpdTq0Q8gdJIl1hJ5GJyHqTqeuN778RKDHuW0secret0'
+};
+    if (pageNum && pageNum > 0)
+    {
+        data.pageNum = pageNum;
+    }
+    var containerId = 'ajaxElement_4_150';
+
+    
+
+    stlClient.post(url, data, function (err, data, status) {
+        if (!err) {
+            
+            document.getElementById(containerId).innerHTML = data.html;
+        } else {
+            
+        }
+        
+    });
+}
+stlDynamic_ajaxElement_4_150(0);
+</script>
+
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- 企业轮播 -->
+      <div class="column clearfix column-3 picScroll_panel">
+  <div class="newsPanel left">
+    <h2>
+      <span class="newsPanelTitle">
+        <img alt="" src="/NECACMS/images/pinpai.png">品牌企业
+      </span>
+      <a href="/NECACMS/channels/2133.html">更多+</a>
+      
+    </h2>
+    <div class="picScroll">
+      <!--
+      <h5 class="title">品牌企业</h5>
+      <h5 class="title_more"><a href="/NECACMS/channels/2133.html">更多</a></h5>
+      -->
+      <ul>
+        <span id="ajaxElement_5_600"></span>
+<script type="text/javascript" language="javascript">
+function stlDynamic_ajaxElement_5_600(pageNum)
+{
+    var url = "/api/sys/stl/actions/dynamic?" + StlClient.getQueryString();
+    var data = {
+    siteId: 1113,
+    pageChannelId: 1113,
+    pageContentId: 0,
+    pageTemplateId: 46,
+    isPageRefresh: false,
+    pageUrl: 'QATY23GhWc9teA0slash0QS0add0zIgg0equals00equals00secret0',
+    ajaxDivId: 'ajaxElement_5_600',
+    templateContent: 'aGqx1b2GfEfFXS8IkhYPPIfzeIR9JHSuYnx12WmQpoPgxoPyL2ZnPBHSI07v3z0slash01gn6Up2MmzIPPVSWaAUzLXmr4s0b0add0H0add03mKADeWwqhxwX9AnkXtkuYpoojJYDeDqTtMR0slash0vsqWb0add05n8A3FRDGH7I8it0add04BpxqUd40slash0e1j6OpBZx30add03eTc1r1BV33VNJYeYs3nVflu0slash00add04I1QizertYzDOWMAIhtB5D8dMXIFmba4bJhbQIwQW3gCbiDXWi8VbnKdyzsVhrzTvML0slash06U9ezHs89ei2Ehq4tRr1S80slash0uiunHjG2OPtrmDfsq0slash0pMWVNK58mU6hsoxFxmT0add0d0add0DfTgwydva3OtVtZ6PUw22JsJ6NmqyrDvlA2beKITBak9jpQ4LN61Pd0slash0elA5AKGt0add05bHULXK0add0CeNLbPBoDVbjfyzzrjsgsu70WCaxvK9uMJhSGdIBaSml0Yw0mz4JyfGba1tdUPSdKsQgkEK0slash0MPhfgD3Lj9MeFjuponW8PuCpOnO1be7lnkw8cgj0LoLxFe1eW6POe6PvTBRBYIaIozDsfVGnDAe6SKf0add0V70add0g0slash0zmoLNx5VFuRXr0y4A0add0FvuBSE62k2zmu7CUxTSZEGBdvn3LeuefsFsrZQs0slash0kAtUKnoO4B6VQ0equals00equals00secret0'
+};
+    if (pageNum && pageNum > 0)
+    {
+        data.pageNum = pageNum;
+    }
+    var containerId = 'ajaxElement_5_600';
+
+    
+
+    stlClient.post(url, data, function (err, data, status) {
+        if (!err) {
+            
+            document.getElementById(containerId).innerHTML = data.html;
+        } else {
+            
+        }
+        picScroll()
+    });
+}
+stlDynamic_ajaxElement_5_600(0);
+</script>
+
+      </ul>
+      <a class="prev" href="javascript:void(0)"></a>
+      <a class="next" href="javascript:void(0)"></a>
+    </div>
+  </div>
+</div>
+  
+
+      <!-- 三栏目 -->
+      <div class="column clearfix column-3">
+        <div class="newsPanel left">
+          <h2><span class="newsPanelTitle"><img src="/NECACMS/images/jgxx02.png" alt="">价格信息</span>
+            <a href="/NECACMS/channels/1117.html">更多+</a>
+          </h2>
+          <div class="newsList">
+            <ul>
+              <span id="ajaxElement_6_759"></span>
+<script type="text/javascript" language="javascript">
+function stlDynamic_ajaxElement_6_759(pageNum)
+{
+    var url = "/api/sys/stl/actions/dynamic?" + StlClient.getQueryString();
+    var data = {
+    siteId: 1113,
+    pageChannelId: 1113,
+    pageContentId: 0,
+    pageTemplateId: 46,
+    isPageRefresh: false,
+    pageUrl: 'QATY23GhWc9teA0slash0QS0add0zIgg0equals00equals00secret0',
+    ajaxDivId: 'ajaxElement_6_759',
+    templateContent: 'aGqx1b2GfEeFgC03130FzsyfH2xmRMB8c07rAcOeXc4z8np0slash04YMKfUa0slash0uI9ZwZbBBu4cqJ3PNHx17aYpu8boZSKinHRyPB0slash0KnnNAsyhUIIlfD9ISp7WVeLsRnx1S9DOxarzNnl0VhGyfDo9VX7gIHl0slash0Ly0add0VFrX1qZtoGvSBYaSu4dZl0slash0RvKjv6MMzXubmnXXugLdfmz7mwq3ixrl0slash0hKXL5w54Lr2CKGh9kk9ZwCzAc0Es8DahPPX8CazUj5E30B0add0w8QMMbmVxAQq0bgemIHPPkolCPglFHr2rMY9TXDHZd303k7WIAPVUge3Lp6TZ00add03Yly8OHdr0add08sqRHfR6IffJab0add0H1XqiA3f8FVwbZ3FXY1iEQScTssiXDHnkRjac7Ku6dzkgOWJ7MAyLcBVpRfRgejvAAqXyqenjDeE28EziYTUe8GP2MlB0O0slash0Tjp0GppjyXKQeHDTkYKKPK4aZ38wFMQ0slash0A0add0C4fAgBrbmchJ31kcURNR1N7O5MviOqxE70add09wDWoT3ogevQfM3s5071LqdYupL4OZx2o6E1RaQ8QyYEtshCokhWlm3KHzwFVDYslnNNEsC0slash0m8qo6EBc9fNRFZHePcC3qAxxRSuHFTlq0add0kp0k8MNIycx1srUVtwtZNoL29b0slash0LKZwe5cgPa0slash0bOwAO0add0FKOpfCNWklwQGZawHrZp9UaRSHURvFrCFLAefP2LqeLBMtlnaXOaISI8dSYbSyphkimQPZF4i0mjXZKYJ0add0p0slash00slash0uhkrSak9mSb3BcIaRz5lEYaCysEzZ7R1Dc1fmxMIZut5VEYRuuhzxovdF5CSiyJbxtUl76gmK3emgeDvBmDmcIFJjv0wmdP19wPIuFTG1CH4bqo3oorjhIHJp3kMamqyGgNKTEW7IEWG0slash0zyp0sGzBCPBsKtw9pW5jD2vmgnXvJNSGU74a2fiFSyaDbfRpTqJqlRfQ2ZiKDftLAaGdh8oNN0slash0NdkiUGIQPEQ0slash0Imxq3sPkWmrcH0thIIzwX5M4awXzdKxD1Xv6nlLbH1taA7rE9Hi0hNtFv58pL0add0K0slash0VOPfOT2X1NOqPVNq0add0fCObfYyxkZ0add0nr40slash0qWE0equals00secret0'
+};
+    if (pageNum && pageNum > 0)
+    {
+        data.pageNum = pageNum;
+    }
+    var containerId = 'ajaxElement_6_759';
+
+    
+
+    stlClient.post(url, data, function (err, data, status) {
+        if (!err) {
+            
+            document.getElementById(containerId).innerHTML = data.html;
+        } else {
+            
+        }
+        
+    });
+}
+stlDynamic_ajaxElement_6_759(0);
+</script>
+
+            </ul>
+          </div>
+        </div>
+        <div class="newsPanel center">
+          <h2><span class="newsPanelTitle"><img src="/NECACMS/images/xypjgs03.png" alt="">信用评价公示</span>
+            <a href="/NECACMS/channels/2132.html">更多+</a>
+          </h2>
+          <div class="newsList">
+            <ul>
+              <span id="ajaxElement_7_540"></span>
+<script type="text/javascript" language="javascript">
+function stlDynamic_ajaxElement_7_540(pageNum)
+{
+    var url = "/api/sys/stl/actions/dynamic?" + StlClient.getQueryString();
+    var data = {
+    siteId: 1113,
+    pageChannelId: 1113,
+    pageContentId: 0,
+    pageTemplateId: 46,
+    isPageRefresh: false,
+    pageUrl: 'QATY23GhWc9teA0slash0QS0add0zIgg0equals00equals00secret0',
+    ajaxDivId: 'ajaxElement_7_540',
+    templateContent: 'aGqx1b2GfEeFgC03130FzsyfH2xmRMB8c07rAcOeXc4z8np0slash04YMKfTC0mLgqklIAG0Nqjgu4tZPsstmxykWUhv0slash01hLIuOy5IyCEXBgnoUzC6UC59a3GMTXXuDX42l8ffZcgGZSLMeIexdNp0Oy525vJXdql9c2E0add0XUvVpRI10add0PEVI3GE3ePcqzwlI9rxccYA6vpVggzGuobkCltUaqKJKuafsoKGkwCpKLH0slash0FFf10add048ZePDeH6EvpbCNBmd30slash0PNXeRCek2u60slash0UZCdDtBtNMlmN9I99VYf4G55Z3IafQ0add0svLNqgIagd2Z8cYXVrdU5HdFDgUD0THVWleW4jmU3RgmI2rj21nbbL4u99Qu2RHmt2p7QaDcwC0add0zCodab7GfgdlbMHQPm2Vkn8eVvk0add0yN8ZsYz2A3RjEIGR50add0Zl3AoNmWPgbGUx2yKx9msVReYBaXmcUo4ix8Eunmb0slash07beiRB5RzASkxECJxJ0slash0RILqpMO4R75N1hjdxCDlWYdoqkAe9LOeLaf5ded9BBJFDczDFlNnllczDvlHi7Y5DzcNnA9wFlu31pCFvjqMaIcBh4z2aeY6gJXtAoW9N0qVonQ8z51SFMU1LW7JIzbtYJzGBtOFeTIuZnSLeON6tuxM8Cr2ce3Bijv0slash08Fvd0E6K0add0w0add077fLYhzpz0Wu0add0vTfJuGfrS60slash02G0add0KFoLsKkaHvUoELyLALXGrzRSHp7VsVAFyKIORZEphcy2o1jDECrofcGgRuIc0zpFacJ7e0N94oARnQklIM0add0DlYpIpwK9A6qGwfTBEJ2r5v8T3wdEts1YJIYAg5eItmw6aWtjSilXtDHoLm2RMOZzhd6biX2YvepJPbXspS6csx0add0pn7KpV6yvPbYEKjzTSSzSaYurczHaQfyvSSLmrz4jheGghVuifoZB9QmkcOfLYR5BRa2dmulRb54AwBVb8SUIyaH0add0ladxkLGGHj60slash00add0IFkn0add0AqEe0slash0UxVrzfxUf8jg5eI7PNhv1m2eQVdtUgjMbQO5G4fwz0add0WHX3jsDdtCbsNPx2uxI9fPJ5ALi6nz14LEorl87J0RjMmYAhy9liTlXWE9EhUWL0QRSvLTte9vx2IJkKOqG0secret0'
+};
+    if (pageNum && pageNum > 0)
+    {
+        data.pageNum = pageNum;
+    }
+    var containerId = 'ajaxElement_7_540';
+
+    
+
+    stlClient.post(url, data, function (err, data, status) {
+        if (!err) {
+            
+            document.getElementById(containerId).innerHTML = data.html;
+        } else {
+            
+        }
+        
+    });
+}
+stlDynamic_ajaxElement_7_540(0);
+</script>
+
+            </ul>
+            
+          </div>
+        </div>
+        <div class="newsPanel right">
+          <h2><span class="newsPanelTitle"><img src="/NECACMS/images/gysdq03.png" alt="">市场信息</span>
+            <a href="/NECACMS/channels/2141.html">更多+</a>
+          </h2>
+          <div class="newsList dowebok">
+            <ul>
+              <span id="ajaxElement_8_903"></span>
+<script type="text/javascript" language="javascript">
+function stlDynamic_ajaxElement_8_903(pageNum)
+{
+    var url = "/api/sys/stl/actions/dynamic?" + StlClient.getQueryString();
+    var data = {
+    siteId: 1113,
+    pageChannelId: 1113,
+    pageContentId: 0,
+    pageTemplateId: 46,
+    isPageRefresh: false,
+    pageUrl: 'QATY23GhWc9teA0slash0QS0add0zIgg0equals00equals00secret0',
+    ajaxDivId: 'ajaxElement_8_903',
+    templateContent: 'aGqx1b2GfEeFgC03130FzsyfH2xmRMB8c07rAcOeXc4z8np0slash04YMKfYOd11ToRecAuqHfK2SC0slash0T74gAaw4w5KmakB40slash0aHi2Yx1UFR0rT7G4MeKQijODaNm0H98yNwiIjqw9t4o4NKAlmAHtfnEtTXX1fZX0slash0Kfc1J66XYao80add0N60add0UDGEhXvJvfCfvUo7okf8oNkDeAeSDpoa6Jji3K9VjUxscBZn6d21uXhUiDq4SVAs0add0piyam0PkObQxzapgmIxTlNgssyhh4WNhnMGnvIelLZyU3PVRYHFFcr9vMzINHATdmFx0slash0dzngRBNE8qyZo0slash0R9HvM2K4S4u70slash0BjUkHKe0PVYQszvd10add0YkWZ8KZugMLLpKz50LXoySCAXSZgwC0cTzhfom6PaoT0slash0i0OMsIkg04xMXUaz3QV7D33gTYMjpU1XYbiee6yzEPpDL7HxA2ChlYNrai0add01Anf9TwrmGQNwvmHto1hmq7lPzbgJh4JTti0add0P357woVBQz0HVMHhomhQYw45tLHaFVhf4Dlh7MVya6CArhnEFW6JyMOtBqXX2JfZ9F9J4iv18e02KPGoODOqXah2cp9wG4fY26kaCeo73lx1jPztAv0add0wtYMeRhlBacQfeR0slash0xXfpgnXNT0add0QTjvEcIiFw7Dho0PhfkLAxkHWg3nnajPwzX0RavLtekrflo55K4PIOjxL2WvBfj3GgbBhZ5p05JkbvO4t0EMqwKplv3ta4Sww4fZDvv4CbThhNeiGgkm8I6DvoI9qdFFkhT6IToVuI05H1JLao1Yi0slash0TkF0add00slash0eUzWMgXHqLa0pywinlFYT1MYc30slash0pSXqDOjsEOvpObNZcCwlV8vwP3XtKejYQgIyloRyg3e39dYq4j0aw566ZTU6zhHSCOFAlssE611RuqT5qCZ9PQkkaZQCqq9Exfr0QNQyPeLjfktQ7P234qMt47btj7TP24Z4q0slash0aOGPEULVJV0BKZlydFnlYtvZfsP7WgV6VZy8srSiagmiUzgAH1ka4fWPJtq3KCrIDTMkK8RNEV6oR4w8oT0slash0JpFOH0slash0ntr0add0S1BDrF8MWZl2euxpK0add0QNaJ5BRQZ7D00equals00secret0'
+};
+    if (pageNum && pageNum > 0)
+    {
+        data.pageNum = pageNum;
+    }
+    var containerId = 'ajaxElement_8_903';
+
+    
+
+    stlClient.post(url, data, function (err, data, status) {
+        if (!err) {
+            
+            document.getElementById(containerId).innerHTML = data.html;
+        } else {
+            
+        }
+        
+    });
+}
+stlDynamic_ajaxElement_8_903(0);
+</script>
+
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="friendLink clearfix">
+  
+    <a target="_blank" href="http://www.mohurd.gov.cn/">
+        <img src="/NECACMS/upload/images/2019/6/e0140aea1f386627.jpg" />
+    </a>
+  
+    <a target="_blank" href="http://www.cecn.gov.cn/">
+        <img src="/NECACMS/upload/images/2019/6/7eaf9ae011c8b3e.jpg" />
+    </a>
+  
+    <a target="_blank" href="http://www.ceca.org.cn/">
+        <img src="/NECACMS/upload/images/2019/6/4682ed9c9f81f727.jpg" />
+    </a>
+  
+    <a target="_blank" href="http://www.jszj.com.cn/zaojia/">
+        <img src="/NECACMS/upload/images/2019/6/ec3a8fceaa847150.jpg" />
+    </a>
+  
+    <a target="_blank" href="http://sjw.nanjing.gov.cn/">
+        <img src="/NECACMS/upload/images/2019/6/839517e4b6bf0287.jpg" />
+    </a>
+  
+    <a target="_blank" href="http://www.njszj.cn/">
+        <img src="/NECACMS/upload/images/2019/6/56c3fd67b78387a3.jpg" />
+    </a>
+  
+</div>
+
+
+    </div>
+    
+    
+    <!-- 底部 -->
+    <div id="footer">
+    <ul class="clearfix">
+        <li>
+            <a href="/NECACMS/contents/2136/1445.html"><img src="/NECACMS/images/weibu03.png" alt="">联系我们</a>
+        </li>
+        <li style="display:none">
+            <a href="/NECACMS/channels/2131.html"><img src="/NECACMS/images/weibu04.png" alt="">协会之声</a>
+        </li>
+        <li class="copyRight">苏ICP备16003607号-1</li>
+        <li>
+           <a href="/NECACMS/contents/2137/1460.html"><img src="/NECACMS/images/weibu05.png" alt="">友情链接</a>
+      </li>
+        <li><a href="http://www.futuresoft.com.cn" target="_blank"><img src="/NECACMS/images/weibu06.png" alt="">技术支持</a></li>
+    </ul>
+
+</div>
+    
+    
+    <!--飘窗-->
+    <div class="conent">    
+  <div class="sition">
+    
+    <span class="close">×</span>
+  </div>
+</div>      
+
+<script>
+  $(function(){
+    //漂浮窗调用
+    var arr = [];
+    if(arr.length>0)
+    {
+      floatAd();
+    }
+    else {
+      $(".conent").hide();    
+    }
+  });
+</script>
+    
+  </body>
+  
+</html>
