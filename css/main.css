@@ -167,7 +167,43 @@ body {
 
 .ad
 {
-  height: 296px;
-  width: 450px;
+  height: 400px;
+  width: 1000px;
   overflow: hidden;
 }
+
+.main
+{
+  height: 250px;
+  background-color: #fff;
+  margin-top:5px;
+}
+
+.news
+{
+  width: 340px;
+  border: 1px solid #585858;
+  background-color:#9fc;
+}
+
+.course
+{
+  width: 410px;
+  border: 1px solid #585858;
+  background-color: #ff6;
+  margin: 0 7px;
+}
+
+.sidebar
+{
+  width: 230px;
+  background-color: #09f;
+}
+
+.news,.course,.sidebar
+{
+  height: 250px;
+  float: left;
+}
+
+
