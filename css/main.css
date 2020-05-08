@@ -67,7 +67,7 @@ body {
 {
   width: 280px;
   float: right;
-  height: 47px;
+  height: 35px;
   margin-top: 12px;
   color: #8e8e8e
 }
@@ -94,23 +94,80 @@ body {
 .nav_left
 {
   width: 10px;
-  background: url(../images/nav_left.gif)no-repeat;
+  height: 40px;
+  background: url(../images/nav_left.png)no-repeat;
 }
 
 .nav_mid
 {
   width: 980px;
-  background: url(../images/nav_bg.gif)repeat-x;
+  height: 40px;
+  background: url(../images/nav_bg.png)repeat-x;
 }
 
 .nav_right
 {
+  height: 40px;
   width: 10px;
-  background: url(../images/nav_right.gif)no-repeat;
+  background: url(../images/nav_right.png)no-repeat;
 }
 
 .nav_left,.nav_mid,.nav_right
 {
   height: 40px;
   float: left;
+}
+
+.nav_mid_left,.nav_mid_right
+{
+  float: left;
+}
+
+
+.nav_mid_left
+{
+  width: 680px;
+}
+
+.nav_mid_left li
+{
+  float:left;
+  list-style-type: none;
+  width: 100px;
+  text-align: center;
+  line-height: 40px;
+}
+
+.nav_mid_left a:link,.nav_mid_left a:visited
+{
+  text-decoration: none;
+  color: #fff;
+  font-size:16px;
+  font-family: "微软雅黑"
+}
+
+.nav_mid_left a:hover,.nav_mid_left a:active
+{
+  text-decoration: none;
+  color: #ff0;
+  font-size:16px;
+  font-family: "微软雅黑"
+}
+
+.serch_text
+{
+  height: 25px;
+  width: 190px;
+  margin-top: 5px;
+  background: url(../images/search.png)no-repeat right center;
+  background-color: #fff;
+  padding-right: 25px;
+  border: 1px solid #fff;
+}
+
+.ad
+{
+  height: 296px;
+  width: 450px;
+  overflow: hidden;
 }

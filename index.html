@@ -12,6 +12,12 @@
       }
     </style>
     <script src="js/sethomesetfav.js" type="text/javascript" charset="gb2312"></script>
+    <script src="js/myfocus-2.0.1.min.js" type="text/javascript"></script>
+    <script src="js/mf-pattern/mF_YSlider.js" type="text/javascript"></script>
+    <link href="js/mf-pattern/mF_YSlider.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript">
+      myFocus.set({id:'picBox'})
+    </script>
   </head>
   
   <body>
@@ -42,20 +48,37 @@
             <li><a href="#">首页</a></li>
             <li><a href="#">公司介绍</a></li>
             <li><a href="#">公司业绩</a></li>
-            <li><a href="#">公司资质</a></li>
-            <li><a href="#">业务范围</a></li>
             <li><a href="#">行业资讯</a></li>
             <li><a href="#">联系我们</a></li>
           </ul>
         </div>
         <div class="nav_mid_right">
           <form action="" method="post">
-            <input type="text" />
+            <input type="text" class="serch_text" />
           </form>
         </div>
       </div><!--nav_mid end-->
       <div class="nav_right"></div>
     </div><!--nav end -->
+
+    <div class="ad" id="picBox">
+      <div class="loading"><img src="images/loading.gif" alt="加载中" /></div>
+      <div class="pic">
+        <ul>
+          <li><img src="images/ad1.jpg"></li>
+          <li><img src="images/ad2.jpg"></li>
+          <li><img src="images/ad3.jpg"></li>
+          <li><img src="images/ad4.jpg"></li>
+        </ul>
+      </div>
+    </div><!--ad end-->
+    <div>
+      <div class="news"></div>
+      <div class="course"></div>
+      <div class="sidebar"></div>
+    </div>
+    
+
   </div><!--wrap end-->
 
   </body>
