@@ -53,7 +53,7 @@ body {
 .logo
 {
   height: 47px;
-  background-color: #fff 
+  /* background-color: #fff  */
 }
 
 .logo_left
@@ -143,7 +143,7 @@ body {
   text-decoration: none;
   color: #fff;
   font-size:16px;
-  font-family: "微软雅黑"
+  font-family: "微软雅黑";
 }
 
 .nav_mid_left a:hover,.nav_mid_left a:active
@@ -151,7 +151,7 @@ body {
   text-decoration: none;
   color: #ff0;
   font-size:16px;
-  font-family: "微软雅黑"
+  font-family: "微软雅黑";
 }
 
 .serch_text
@@ -183,14 +183,12 @@ body {
 {
   width: 340px;
   border: 1px solid #585858;
-  background-color:#9fc;
 }
 
 .course
 {
   width: 410px;
   border: 1px solid #585858;
-  background-color: #ff6;
   margin: 0 7px;
 }
 
@@ -206,4 +204,110 @@ body {
   float: left;
 }
 
+.title
+{
+  height: 35px;
+  border-bottom: 2px solid #e8e8e8;
+}
+
+.title_left
+{
+  width: 70%;
+  font-family: "微软雅黑";
+  font-size: 14px;
+  font-weight: bold;
+  color: #786f66;
+  float:left;
+  line-height: 35px;
+  padding-left: 20px;
+}
+
+.title_right
+{
+  width: 20%;
+  float: right;
+  line-height: 35px;
+  font-size: 12px;
+  text-align: right;
+  padding-right: 10px;
+}
+
+.title_right a
+{
+  text-decoration: none;
+  color: #999999;
+}
+
+.pic_news
+{
+  height: 80px;
+  font-family: "微软雅黑";
+  font-size: 12px;
+  margin-top: 10px;
+  line-height: 22px;
+}
+
+.pic_news img,.course_pic img
+{
+  float: left;
+  margin: 0 5px;
+}
+
+.pic_news a
+{
+  color: #c00;
+  text-decoration: none;
+}
+
+.news_list
+{
+  margin-top: 15px;
+  float: left;
+  padding: 5px;
+}
+
+.news_list ul
+{
+  margin:0px;
+  padding:0px;
+}
+
+.news_list li
+{
+  list-style-type: none;
+  background: url(../images/list_dot.png) no-repeat;
+  padding-left: 10px;
+  margin: 8px;
+  border-bottom: 1px dotted #ccc;
+  font-size: 8px;
+  max-width: 300px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.news_list a:link,.news_list a:visited
+{
+  text-decoration: none;
+  color: #000;
+}
+
+.news_list a:hover,.news_list a:active
+{
+  text-decoration: none;
+  color: #f00;
+}
+
+.news_list span
+{
+  color: #999;
+  float: right;
+}
+
+.course_pic
+{
+  height: 120px;
+  margin-top: 10px;
+  line-height: 22px;
+}
 
