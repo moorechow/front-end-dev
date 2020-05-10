@@ -195,7 +195,7 @@ body {
 .sidebar
 {
   width: 230px;
-  background-color: #09f;
+  border: 1px solid #585858;
 }
 
 .news,.course,.sidebar
@@ -253,7 +253,7 @@ body {
   margin: 0 5px;
 }
 
-.pic_news a
+.pic_news a,.course_pic a
 {
   color: #c00;
   text-decoration: none;
@@ -309,5 +309,45 @@ body {
   height: 120px;
   margin-top: 10px;
   line-height: 22px;
+  font-family: "微软雅黑";
+  font-size: 12px;
+  margin-top: 10px;
+  line-height: 22px;
 }
 
+.course_type
+{
+  height: 37px;
+  width: 372px;
+  background: url(../images/product_type_bg.jpg)no-repeat;
+  font-family: "微软雅黑";
+  font-size: 12px;
+  margin:0px auto;
+}
+
+.course_type li
+{
+  list-style-type: none;
+  float: left;
+  line-height: 37px;
+  margin: 0 15px;
+  text-align: center;
+}
+
+.video
+{
+  height: 185px;
+  border: 1px solid #e8e8e8;
+}
+
+.video_content
+{
+  height: 150px;
+}
+
+.sidebar_ad
+{
+  height: 55px;
+  border: 1px solid #e8e8e8;
+  margin-top: 5px;
+}
